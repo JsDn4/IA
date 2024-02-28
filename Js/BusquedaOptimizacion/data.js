@@ -1,17 +1,17 @@
 export const listaArticulos = [
     {
         name: 'Casa de campaña',
-        peso: 4,
+        peso: 1,
         valor: 50
     },
     {
         name: 'Saco de dormir',
-        peso: 3,
+        peso: 7,
         valor: 35
     },
     {
         name: 'Bote de agua',
-        peso: 3,
+        peso: 6,
         valor: 10
     },
     {
